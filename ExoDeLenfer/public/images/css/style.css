@@ -1,0 +1,14 @@
+.image{
+
+    margin-top: 10rem;
+    display: flex;
+    
+    width: 90%;
+   
+}
+
+div img{
+ 
+    align-items: center;
+    justify-content: center;
+}
